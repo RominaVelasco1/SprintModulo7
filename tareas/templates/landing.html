@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+{% block content %}
+
+  <div class="p-2 text-center bg-image">  
+    <br>
+      <div class="d-flex justify-content-center align-items-center h-100">
+        <div class="text-black">
+          <h2 class="mb-3">Bienvenidos!</h2>
+          <h3 class="mb-3">Tienes dificultad al proponerte tareas y realizarlas? esta web es para ti, regitrate ya!</h3>
+        <img src="{% static 'assets/imagenes/listadetareas.png' %}">
+        </div>
+    </div>
+  </div>
+
+{% endblock %}

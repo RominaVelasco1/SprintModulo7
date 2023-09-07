@@ -1,0 +1,98 @@
+h2{
+    color: rgb(56, 51, 99);
+    font-size: 50px;
+}
+#titulo{
+    background-color: #dbdcf5;
+    text-align: center;
+    color: rgb(167, 50, 50);
+}
+body{
+    background-color: rgb(151, 203, 209);
+}
+
+footer {
+	background-color:#9596b9;
+	height: 50%;
+    text-align: center;
+    padding: 15px;
+    color: rgb(19, 1, 1);  
+}
+#pie{
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 100;   
+   
+}
+
+.navbar {
+    background-color: #091c2e;
+  }
+.navbar-brand {
+    font-weight: bold;
+  }
+  .nav-item {
+    padding: 0 10px;
+  }
+  .first-color { 
+    background: #a8e6cf; 
+  }
+    
+  .second-color { 
+    background: #fdffab; 
+  }
+  
+  .third-color { 
+    background: #ffd3b6; 
+  }
+  
+  .fourth-color { 
+    background: #ffaaa5; 
+  }
+
+  /* Estilo para prioridad alta (rojo) */
+.Alta {
+  background-color: red;
+  color: white; /* Texto en blanco para que se vea mejor en rojo */
+}
+
+/* Estilo para prioridad baja (azul) */
+.Baja {
+  background-color: blue;
+  color: white; /* Texto en blanco para que se vea mejor en azul */
+}
+
+
+  h2{ 
+    font-family: 'Ubuntu', sans-serif;
+  }
+  h5{ 
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  label{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  #derecha{
+    background-color:#ffd3b6 ;
+  }
+
+  #derecha:hover{
+    background-color: #9596b9;
+    transform: translate3d(0, -5px, 0);
+  }
+
+#contenidoTabla {
+  font-size: 14px;
+}
+
+td {
+  font-size: 12px;
+}
+
+th {
+  font-size: 12px;
+}
